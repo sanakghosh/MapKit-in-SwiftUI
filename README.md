@@ -1,4 +1,5 @@
-# MapKit-in-SwiftUI
+# Advanced MapKit Integration in SwiftUI
+
 
 <img width="232" alt="07-imagery" src="https://github.com/sanakghosh/MapKit-in-SwiftUI/assets/68545769/2d0e1c96-08ef-4402-a91b-aa3bd533bea3">
 
